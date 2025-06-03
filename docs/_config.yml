@@ -1,0 +1,109 @@
+# QuickBooks Offline Setup Assistant - Jekyll Configuration
+
+title: "QuickBooks Offline Setup Assistant"
+description: "Complete installation and configuration tool for QuickBooks Desktop with automated deployment features"
+url: "https://quickbooks-offline.github.io"
+baseurl: "/quickbooks-offline-setup-assistant"
+
+# SEO Configuration
+author: "QuickBooks Offline Team"
+logo: "/assets/images/logo.png"
+social:
+  name: "QuickBooks Offline Setup Assistant"
+  links:
+    - "https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant"
+
+# Jekyll Theme and Plugins
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-github-metadata
+
+# SEO Plugin Configuration
+seo:
+  type: "SoftwareApplication"
+  name: "QuickBooks Offline Setup Assistant"
+  headline: "Automated QuickBooks Desktop Installation Tool"
+  description: "Professional offline installation assistant for QuickBooks Desktop with enterprise deployment capabilities"
+  author: "QuickBooks Offline Team"
+  publisher: "QuickBooks Offline Team"
+  image: "/assets/images/og-image.png"
+  
+# Site Settings
+lang: en_US
+timezone: America/New_York
+encoding: UTF-8
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Collections
+collections:
+  guides:
+    output: true
+    permalink: /:collection/:name/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "QuickBooks Offline Team"
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "guide"
+      toc: true
+
+# Navigation
+navigation:
+  - name: "Home"
+    url: "/"
+  - name: "Download"
+    url: "/download/"
+  - name: "Documentation"
+    url: "/docs/"
+  - name: "Support"
+    url: "/support/"
+  - name: "GitHub"
+    url: "https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant"
+
+# Footer Links
+footer_links:
+  - name: "Privacy Policy"
+    url: "/privacy/"
+  - name: "Terms of Service"
+    url: "/terms/"
+  - name: "Contact"
+    url: "/contact/"
+
+# Analytics (add your IDs)
+google_analytics: # GA4-XXXXXXXX
+google_search_console: # your-verification-code
+
+# Social Media
+social_media:
+  twitter: "@qb_setup_assist"
+  github: "quickbooks-offline"
+  email: "support@qb-setup-assistant.com"
+
+# Exclude from build
+exclude:
+  - README.md
+  - CHANGELOG.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache 
