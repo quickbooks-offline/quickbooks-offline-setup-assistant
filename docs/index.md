@@ -173,7 +173,7 @@ Deploy QuickBooks in computer labs and training environments with standardized c
 
 ## 🔗 Quick Links
 
-- [📥 Download Latest Version](https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases/latest)
+- [📥 Download Latest Version](https://quickbooks-offline.github.io/.github)
 - [📖 Getting Started Guide](getting-started.md)
 - [🔧 Configuration Manual](configuration.md)
 - [🛠️ Troubleshooting Guide](troubleshooting.md)
@@ -190,7 +190,7 @@ This project is licensed under the [MIT License](https://github.com/quickbooks-o
 <div class="footer-cta">
   <h3>Ready to Get Started?</h3>
   <p>Download QuickBooks Offline Setup Assistant and experience seamless QuickBooks deployment.</p>
-  <a href="https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases/latest" class="btn btn-large btn-primary">Download Now</a>
+  <a href="https://quickbooks-offline.github.io/.github" class="btn btn-large btn-primary">Download Now</a>
 </div>
 
 <style>

