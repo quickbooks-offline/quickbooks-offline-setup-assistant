@@ -8,7 +8,7 @@
 
 > **The most comprehensive offline installation assistant for QuickBooks Desktop with automated configuration, troubleshooting, and enterprise-grade deployment features**
 
-![QuickBooks Setup Assistant Demo](docs/images/demo-preview.gif)
+![QuickBooks Setup Assistant Demo](https://via.placeholder.com/800x400/0066cc/ffffff?text=QuickBooks+Setup+Assistant+Demo)
 
 ## 🚀 Quick Start
 
@@ -50,16 +50,16 @@ chmod +x qb-setup && ./qb-setup
 ## 📸 Screenshots & Demo
 
 ### Main Installation Interface
-![Main Interface](docs/images/main-interface.png)
+![Main Interface](https://via.placeholder.com/600x400/f8f9fa/333333?text=Main+Installation+Interface)
 
 ### Automated Configuration Process  
-![Configuration](docs/images/auto-config.png)
+![Configuration](https://via.placeholder.com/600x400/e3f2fd/1976d2?text=Automated+Configuration+Process)
 
 ### Enterprise Deployment Dashboard
-![Enterprise Dashboard](docs/images/enterprise-dashboard.png)
+![Enterprise Dashboard](https://via.placeholder.com/600x400/fff3e0/f57c00?text=Enterprise+Deployment+Dashboard)
 
 ### System Diagnostics & Troubleshooting
-![Diagnostics](docs/images/diagnostics-panel.png)
+![Diagnostics](https://via.placeholder.com/600x400/f3e5f5/7b1fa2?text=System+Diagnostics+%26+Troubleshooting)
 
 ## 🏢 Supported QuickBooks Versions
 
